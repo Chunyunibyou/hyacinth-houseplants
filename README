@@ -1,0 +1,38 @@
+# Hyacinth Haven: Houseplant E-Commerce Site
+
+A hyacinth-themed e-commerce web application for selling unique houseplants, built with React and Redux. Features include a landing page, product listing with categories, a shopping cart, and responsive design.
+
+## Features
+- Landing page with company branding and call-to-action.
+- Product listing with 6 hyacinth-inspired houseplants, grouped by categories (Spring Bloomers, Fragrant Favorites, Easy Care).
+- Shopping cart with add/remove/update functionality.
+- Header with navigation and live cart count.
+- Themed with hyacinth colors (purples and pinks) for a floral, elegant feel.
+
+## Technologies Used
+- React (for UI components)
+- Redux (for state management)
+- React Router (for navigation)
+- CSS (for styling)
+
+## Installation and Setup
+1. Clone the repository: `git clone https://github.com/Chunyunibyou/hyacinth-houseplants.git`
+2. Navigate to the project directory: `cd hyacinth-houseplants`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Usage
+- Browse plants on the product listing page.
+- Add items to the cart (buttons disable after adding).
+- View and manage cart on the shopping cart page.
+- Navigate between pages using the header.
+
+## Deployment
+Deployed via GitHub Pages: [Live Site Link](https://Chunyunibyou.github.io/hyacinth-houseplants) (update if needed).
+
+## Contributing
+This is a project assignment. For peer grading, review the code and provide feedback based on the 50-point criteria.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
